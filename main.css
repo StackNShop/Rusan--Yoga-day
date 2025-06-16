@@ -161,7 +161,8 @@ body * {
 #nameInput:focus + .floating-label,
 #nameInput:not(:placeholder-shown) + .floating-label {
   top: -14px;
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: bold;
   color: #4154ff;
 }
 
