@@ -6,7 +6,7 @@ body {
   margin: 30px;
   padding: 0;
   height: auto;
-  background-image: url("../img/card-08.png"); /* Your actual background image */
+  background-image: url("img/card-08.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -15,7 +15,6 @@ body {
   justify-content: center;
   align-items: center;
   position: relative;
-  /* overflow: hidden; */
 }
 
 /* Blurred energetic gradient overlay */
